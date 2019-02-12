@@ -1,0 +1,68 @@
+{
+	"101": {
+		"400": [
+			["825834185", "Paraskevi Oppio"],
+			["1072800797", "Dimitrios Chrysaides"],
+			["563091586", "Marwan Sanoussi"],
+			["100002093434385", "Stathis Papastylianou"],
+			["100006552192419", "Antonis Skraparlis"],
+			["1810029258", "Stelios Arianoutsos"],
+			["1748997249", "Frank Barker"]
+		]
+	},
+	"105": {
+		"500": [
+			["100008546925757", "Κωνσταντίνος Αθανασόπουλος"],
+			["100002093434385", "Stathis Papastylianou"]
+		]
+	},
+	"107": {
+		"450": [
+			["0", "Kostas Kyriazidis"]
+		]
+	},
+	"110": {
+		"450": [
+			["1544497080", "Asklipios Vassiliadis"],
+			["100007888112543", "Emmanuel Zachariadis"],
+			["604389127", "Αντώνης Καργαδούρης"]
+		]
+	},
+	"112": {
+		"450": [
+			["563091586", "Marwan Sanoussi"],
+			["604389127", "Αντώνης Καργαδούρης"]
+		]
+	},
+	"201": {
+		"400": [
+			["0", "George Noctrex"],
+			["1178847872", "Konstantinos Boras"]
+		],
+		"450": [
+			["0", "Kostas Kefallinos"]
+		]
+	},
+	"202": {
+		"400": [
+			["0", "Kostas Mavraganis"],
+			["0", "Malk Giamalakis Nikos"],
+			["1166117679", "Grace Avrabou"],
+			["1544497080", "Asklipios Vassiliadis"],
+			["100014970228053", "Elizabeth Derm"],
+			["100013505295594", "Irene Boni"],
+			["1206529314", "Andreas Kyrmegalos"]
+		]
+	},
+	"203": {
+		"400": [
+			["1345826775", "Charalampos Goutsos"]
+		]
+	},
+	"204": {
+		"450": [
+			["737540887", "Konstantinos Harkonnen"],
+			["1206529314", "Andreas Kyrmegalos"]
+		]
+	}
+}
