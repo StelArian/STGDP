@@ -128,6 +128,7 @@ async.waterfall([
 										load.fb2json_good = false;
 										console.log(ep_num, rate, 'crap!', load.episodes[ep_num].rates[rate].voters.length);
 										console.log(load.episodes[ep_num].rates[rate].voters);
+										console.log('you need to update polls-inject.json manually');
 									}
 								}
 							}
@@ -150,7 +151,7 @@ async.waterfall([
 					delete load.inject_file;
 					delete load.inject;
 
-					fs.writeFile('./fb.json', JSON.stringify(load, null, "\t"), function(error) {
+					fs.writeFile('./disco.json', JSON.stringify(load, null, "\t"), function(error) {
 						if(error)
 							return callback_waterfall(error);
 						callback_waterfall();

@@ -3,7 +3,7 @@ const async = require('async');
 const fs = require('fs');
 
 let load = {
-	file_fb: './fb.json',
+	file_fb: './disco.json',
 	episodes: {},
 	members_unshorted: {},
 	members_shorted: {},
