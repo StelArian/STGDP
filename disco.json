@@ -2525,20 +2525,20 @@
 							"Emmanuel Zachariadis"
 						],
 						[
+							"1544497080",
+							"Asklipios Vassiliadis"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
 							"100002823384616",
 							"Dimitris Koudoumnakis"
 						],
 						[
 							"100002093434385",
 							"Stathis Papastylianou"
-						],
-						[
-							"1544497080",
-							"Asklipios Vassiliadis"
-						],
-						[
-							"1345826775",
-							"Charalampos Goutsos"
 						],
 						[
 							"737540887",
@@ -2555,11 +2555,15 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 3,
+					"votes": 4,
 					"voters": [
 						[
 							"1640423301",
 							"Kritolaos Pachiadakis"
+						],
+						[
+							"707887026",
+							"George Adamopoulos"
 						],
 						[
 							"1072800797",
@@ -2591,8 +2595,8 @@
 				}
 			},
 			"average": 0,
-			"count": 24,
-			"total": 102
+			"count": 25,
+			"total": 107
 		}
 	},
 	"fb2json_good": true
