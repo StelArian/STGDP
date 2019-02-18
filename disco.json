@@ -2472,12 +2472,12 @@
 							"Stelios Kraloglou"
 						],
 						[
-							"749503693",
-							"Alex Megremis"
-						],
-						[
 							"100007950840403",
 							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
 						],
 						[
 							"100015491651114",
@@ -2525,20 +2525,20 @@
 							"Emmanuel Zachariadis"
 						],
 						[
-							"100002823384616",
-							"Dimitris Koudoumnakis"
-						],
-						[
-							"100002093434385",
-							"Stathis Papastylianou"
-						],
-						[
 							"1544497080",
 							"Asklipios Vassiliadis"
 						],
 						[
-							"1345826775",
-							"Charalampos Goutsos"
+							"1206529314",
+							"Andreas Kyrmegalos"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"100002823384616",
+							"Dimitris Koudoumnakis"
 						],
 						[
 							"737540887",
@@ -2555,11 +2555,15 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 3,
+					"votes": 4,
 					"voters": [
 						[
 							"1640423301",
 							"Kritolaos Pachiadakis"
+						],
+						[
+							"707887026",
+							"George Adamopoulos"
 						],
 						[
 							"1072800797",
@@ -2591,8 +2595,147 @@
 				}
 			},
 			"average": 0,
-			"count": 24,
-			"total": 102
+			"count": 25,
+			"total": 107
+		},
+		"205": {
+			"title": "Saints",
+			"rates": {
+				"100": {
+					"votes": 1,
+					"voters": [
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						]
+					]
+				},
+				"200": {
+					"votes": 1,
+					"voters": [
+						[
+							"1206529314",
+							"Andreas Kyrmegalos"
+						]
+					]
+				},
+				"300": {
+					"votes": 2,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						]
+					]
+				},
+				"350": {
+					"votes": 3,
+					"voters": [
+						[
+							"722963498",
+							"George Rigas"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
+						]
+					]
+				},
+				"400": {
+					"votes": 8,
+					"voters": [
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"100005993432147",
+							"Amerikanos Scott Zeibekikos"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"1246612175",
+							"Leon Prlps"
+						]
+					]
+				},
+				"425": {
+					"votes": 1,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						]
+					]
+				},
+				"450": {
+					"votes": 4,
+					"voters": [
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"100002093434385",
+							"Stathis Papastylianou"
+						]
+					]
+				},
+				"475": {
+					"votes": 0,
+					"voters": []
+				},
+				"500": {
+					"votes": 0,
+					"voters": []
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 20,
+			"total": 73.75
 		}
 	},
 	"fb2json_good": true
