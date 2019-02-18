@@ -2633,7 +2633,7 @@
 					]
 				},
 				"350": {
-					"votes": 3,
+					"votes": 4,
 					"voters": [
 						[
 							"722963498",
@@ -2646,6 +2646,10 @@
 						[
 							"666444151",
 							"John Dinopoulos"
+						],
+						[
+							"579215703",
+							"Giorgos Blackman"
 						]
 					]
 				},
@@ -2734,8 +2738,8 @@
 				}
 			},
 			"average": 0,
-			"count": 20,
-			"total": 73.75
+			"count": 21,
+			"total": 77.25
 		}
 	},
 	"fb2json_good": true
