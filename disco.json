@@ -2339,16 +2339,16 @@
 							"Elizabeth Derm"
 						],
 						[
-							"100014373937817",
-							"Νικόλαος Γκανταΐφης"
-						],
-						[
 							"100013505295594",
 							"Irene Boni"
 						],
 						[
 							"100003200419519",
 							"Harry Masmanidis"
+						],
+						[
+							"100014373937817",
+							"Νικόλαος Γκανταΐφης"
 						],
 						[
 							"1345826775",
@@ -2380,14 +2380,6 @@
 							"Antonis Skraparlis"
 						],
 						[
-							"100002823384616",
-							"Dimitris Koudoumnakis"
-						],
-						[
-							"100002093434385",
-							"Stathis Papastylianou"
-						],
-						[
 							"1072800797",
 							"Dimitrios Chrysaides"
 						],
@@ -2402,6 +2394,14 @@
 						[
 							"579215703",
 							"Giorgos Blackman"
+						],
+						[
+							"100002823384616",
+							"Dimitris Koudoumnakis"
+						],
+						[
+							"100002093434385",
+							"Stathis Papastylianou"
 						]
 					]
 				},
@@ -2529,7 +2529,6 @@
 							"Asklipios Vassiliadis"
 						],
 						[
-<<<<<<< HEAD
 							"1206529314",
 							"Andreas Kyrmegalos"
 						],
@@ -2540,18 +2539,6 @@
 						[
 							"100002823384616",
 							"Dimitris Koudoumnakis"
-=======
-							"737540887",
-							"Konstantinos Harkonnen"
-						],
-						[
-							"100002823384616",
-							"Dimitris Koudoumnakis"
-						],
-						[
-							"100002093434385",
-							"Stathis Papastylianou"
->>>>>>> 210ba4db839e1b29952418d4ea3450ce5b9ad95c
 						],
 						[
 							"737540887",
@@ -2610,7 +2597,6 @@
 			"average": 0,
 			"count": 25,
 			"total": 107
-<<<<<<< HEAD
 		},
 		"205": {
 			"title": "Saints",
@@ -2634,7 +2620,7 @@
 					]
 				},
 				"300": {
-					"votes": 2,
+					"votes": 3,
 					"voters": [
 						[
 							"695538115",
@@ -2643,6 +2629,10 @@
 						[
 							"1640423301",
 							"Kritolaos Pachiadakis"
+						],
+						[
+							"100002922363884",
+							"Γιώργος Γαλανάκης"
 						]
 					]
 				},
@@ -2752,10 +2742,8 @@
 				}
 			},
 			"average": 0,
-			"count": 21,
-			"total": 77.25
-=======
->>>>>>> 210ba4db839e1b29952418d4ea3450ce5b9ad95c
+			"count": 22,
+			"total": 80.25
 		}
 	},
 	"fb2json_good": true
