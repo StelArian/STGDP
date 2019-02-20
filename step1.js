@@ -51,7 +51,12 @@ let load = {
 		203: 'Point',
 		204: 'Obol',
 		205: 'Saints',
-		206: 'Thunder'
+		206: 'Thunder',
+		207: 'Light',
+		208: 'Memory',
+		209: 'Daedalus',
+		210: 'Angel',
+		211: 'Infinity'
 	},
 	dir_fb: './polls-fb/',
 	inject_file: './polls-inject.json',
