@@ -2620,7 +2620,7 @@
 					]
 				},
 				"300": {
-					"votes": 3,
+					"votes": 4,
 					"voters": [
 						[
 							"695538115",
@@ -2629,6 +2629,10 @@
 						[
 							"1640423301",
 							"Kritolaos Pachiadakis"
+						],
+						[
+							"1178847872",
+							"Konstantinos Boras"
 						],
 						[
 							"100002922363884",
@@ -2746,8 +2750,8 @@
 				}
 			},
 			"average": 0,
-			"count": 23,
-			"total": 84.25
+			"count": 24,
+			"total": 87.25
 		}
 	},
 	"fb2json_good": true
