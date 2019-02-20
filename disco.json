@@ -718,7 +718,7 @@
 							"Stathis Papastylianou"
 						],
 						[
-							"0",
+							"1089895830",
 							"Kostas Kyriazidis"
 						]
 					]
@@ -1958,7 +1958,7 @@
 							"Eleftherios Kosmas"
 						],
 						[
-							"0",
+							"568774333",
 							"George Noctrex"
 						],
 						[
@@ -2024,7 +2024,7 @@
 							"George J. Theophanous"
 						],
 						[
-							"0",
+							"573359753",
 							"Kostas Kefallinos"
 						]
 					]
@@ -2165,11 +2165,11 @@
 							"Elizabeth Derm"
 						],
 						[
-							"0",
+							"576009384",
 							"Kostas Mavraganis"
 						],
 						[
-							"0",
+							"664391512",
 							"Malk Giamalakis Nikos"
 						],
 						[
@@ -2658,7 +2658,7 @@
 					]
 				},
 				"400": {
-					"votes": 8,
+					"votes": 9,
 					"voters": [
 						[
 							"830178259",
@@ -2679,6 +2679,10 @@
 						[
 							"729180784",
 							"George J. Theophanous"
+						],
+						[
+							"100014373937817",
+							"Νικόλαος Γκανταΐφης"
 						],
 						[
 							"1810029258",
@@ -2742,8 +2746,8 @@
 				}
 			},
 			"average": 0,
-			"count": 22,
-			"total": 80.25
+			"count": 23,
+			"total": 84.25
 		}
 	},
 	"fb2json_good": true
