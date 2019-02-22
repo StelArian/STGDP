@@ -2641,11 +2641,15 @@
 					]
 				},
 				"350": {
-					"votes": 4,
+					"votes": 5,
 					"voters": [
 						[
 							"722963498",
 							"George Rigas"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
 						],
 						[
 							"1072800797",
@@ -2662,7 +2666,7 @@
 					]
 				},
 				"400": {
-					"votes": 9,
+					"votes": 8,
 					"voters": [
 						[
 							"830178259",
@@ -2677,20 +2681,8 @@
 							"Makis Dbs"
 						],
 						[
-							"737540887",
-							"Konstantinos Harkonnen"
-						],
-						[
-							"729180784",
-							"George J. Theophanous"
-						],
-						[
 							"100014373937817",
 							"Νικόλαος Γκανταΐφης"
-						],
-						[
-							"1810029258",
-							"Stelios Arianoutsos"
 						],
 						[
 							"1345826775",
@@ -2699,6 +2691,14 @@
 						[
 							"1246612175",
 							"Leon Prlps"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
 						]
 					]
 				},
@@ -2751,7 +2751,64 @@
 			},
 			"average": 0,
 			"count": 24,
-			"total": 87.25
+			"total": 86.75
+		},
+		"206": {
+			"title": "Thunder",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 0,
+					"voters": []
+				},
+				"400": {
+					"votes": 0,
+					"voters": []
+				},
+				"425": {
+					"votes": 0,
+					"voters": []
+				},
+				"450": {
+					"votes": 0,
+					"voters": []
+				},
+				"475": {
+					"votes": 0,
+					"voters": []
+				},
+				"500": {
+					"votes": 1,
+					"voters": [
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						]
+					]
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 1,
+			"total": 5
 		}
 	},
 	"fb2json_good": true
