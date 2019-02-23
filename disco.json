@@ -2773,8 +2773,12 @@
 					"voters": []
 				},
 				"400": {
-					"votes": 2,
+					"votes": 3,
 					"voters": [
+						[
+							"1165159229",
+							"Alexis Zafiropoulos"
+						],
 						[
 							"1184335175",
 							"Prodromos Makridis"
@@ -2795,7 +2799,7 @@
 					]
 				},
 				"450": {
-					"votes": 4,
+					"votes": 6,
 					"voters": [
 						[
 							"100000257502267",
@@ -2810,8 +2814,16 @@
 							"Alex Megremis"
 						],
 						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
 							"100013505295594",
 							"Irene Boni"
+						],
+						[
+							"579215703",
+							"Giorgos Blackman"
 						]
 					]
 				},
@@ -2867,8 +2879,8 @@
 				}
 			},
 			"average": 0,
-			"count": 15,
-			"total": 71.25
+			"count": 18,
+			"total": 84.25
 		}
 	},
 	"fb2json_good": true
