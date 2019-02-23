@@ -2790,11 +2790,19 @@
 					"voters": []
 				},
 				"450": {
-					"votes": 2,
+					"votes": 4,
 					"voters": [
 						[
 							"100000257502267",
 							"Michael Gerontakis"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
 						],
 						[
 							"100013505295594",
@@ -2807,11 +2815,23 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 4,
+					"votes": 6,
 					"voters": [
 						[
 							"846969410",
 							"Ilias Sellountos"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
 						],
 						[
 							"1810029258",
@@ -2820,16 +2840,17 @@
 						[
 							"1345826775",
 							"Charalampos Goutsos"
-						],
-						[
-							"729180784",
-							"George J. Theophanous"
 						]
 					]
 				},
 				"550": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"722963498",
+							"George Rigas"
+						]
+					]
 				},
 				"050": {
 					"votes": 0,
@@ -2837,8 +2858,8 @@
 				}
 			},
 			"average": 0,
-			"count": 8,
-			"total": 37
+			"count": 13,
+			"total": 61.5
 		}
 	},
 	"fb2json_good": true
