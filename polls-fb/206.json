@@ -43,7 +43,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHR15ZAL_mQY5oL1TDMTiI_HljuMClnEFfDRelQ1y5qP98P8vk31mLn1C2IJFfqUm0R4Cki7C4VHoE_3w1JoX7oLQ"
+                              "cursor": "AQHRAzKBA4Ppl3J1oDNC_DBMdsNqlYnsWBzHBIJtPOD-19soNKBd3vcv6fIzykZFfXGkETevSsAWkv-J1j9QxmZKvg"
                            },
                            {
                               "node": {
@@ -55,7 +55,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHR_rQ6elIVx2i9nPuWS4KHX6ILnhtT-nagwcEMzkmiFXAJ3c7IKA_wcruNLKSvF-f8r-wpCrkphN1gvmV58QUyYA"
+                              "cursor": "AQHRI-be2FzHor462FUbgKN8vf5R1aPb-XZADmiRBtTageKzdmEZrt5TisN8Cyk7TX5DIZ2k6UEjP4cf5CcrhGkjZw"
                            },
                            {
                               "node": {
@@ -67,7 +67,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRfuLp1iF9TqDLO_G_ViSOftgZRK_plc75GXhW9TgSHDgjGctsmuUrf-xPeTOLBcXyjBWn-u6sHL3xMekorPPnkw"
+                              "cursor": "AQHRsOYl_5cid57Vidca6EEY2-j8p7gmGR-X7GLCHu9aLTbqojQbaCZGBje2gHWIwoGPOjZOzWLkKmzEZkcXsh0hJw"
                            },
                            {
                               "node": {
@@ -79,7 +79,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRRxmPkdJouMj2ckpW_W-34ARUFvyrKvWDsAwqbAiwISSmpPYwRKIrhi96soU3d4Xcq6XOhVovggudT-otQ6mP3Q"
+                              "cursor": "AQHRo0AqzetQ5bZhav4Cc90zhDUO62zRZ03UgIgu4m_tSpGwW5ShBE5oXLcAwSQl1ZE7wNPH_Lx667ZFEbBNZCBghg"
                            },
                            {
                               "node": {
@@ -91,7 +91,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRY4FYzuJw02tO5vb3rOMs1QKqI6jKIXOpbIYh3cy2u3OTWMKXdpzScgu3pM2GuS5fOm5ubwysHiP_obkYQUOvCg"
+                              "cursor": "AQHRKM8rrRXbcfo_7nSNpwc0CgazY1av8RXhnI0dUioqJZN_zxuyO2wsoeQWpwzLoXMUJ1DcykTUI0dDtK08F0BPvQ"
                            },
                            {
                               "node": {
@@ -103,7 +103,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHR5SaggbIusJ53KVUI85vWKkuHegkANSOvoAn3jIVJA1rJ3HxjY2VPx_A-I2sEUuKqe1djZF96iQMKV2InN2yRCA"
+                              "cursor": "AQHRjn6yQoWjFitgifTThyoat_nHC1mHUcwbf1S1AQrJM-fnnaOJp0POPtUC0PPz4ESCdxshI_xJmvgo5LNEu8KMyg"
                            }
                         ],
                         "page_info": {
@@ -123,7 +123,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRhJKZUK7daWQT3VnsPquIdos6t-jV7Pjtwac-sb7l2Qi2OpoqRNR96ioZO6mE1E2a"
+                  "cursor": "AQHRgSGy8aO1-MMzhQmgOSvYhnwJYPlTAUp_0GtRZhNwli5cgUceOLb66ljo8YpEeVmc"
                },
                {
                   "node": {
@@ -145,7 +145,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRr-TsEjVOx3ehpiXpkm4C7bDKBinrH8VHjMOOJfPwY_MJpFyWAo0OjiHuObCdOmUMETAfDblSedwS0ThLpVFfVQ"
+                              "cursor": "AQHRaPd-cl3Js8hn1n-Ab0qiPoq642ifB-OrptWY3kyTpC0kY45wJUlfEml9GY49sXWF0R3IGn-shBDkLB05768xjQ"
                            },
                            {
                               "node": {
@@ -157,7 +157,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRmKibs51dbnLXI1SWrKRwpERABGFjcPnZ8GrxKZbCsOk7IAlAkstNxT_fQ3_dOxhY4r7SMshc70tSK-PhNmELUQ"
+                              "cursor": "AQHRh2gLRoo5CJ9WFZiLyt21v78IXJ8HsSuhc-Vfa96qWcq_p7QzkFEU1-GBxfRTCsLkOxsayZx_GCaBaptXLFkBkg"
                            },
                            {
                               "node": {
@@ -169,7 +169,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRqDNVy5Ihgfpd6cXbo6M9PDZ8j4Mfxk9biJhiVia-ZjQfduuuZXrRxyb5gaBcSzxTYPUzC3f8nD5sVdJ7_DkXzg"
+                              "cursor": "AQHRIpRYdLhMIcg7GqjStyXTckzbvDZ-DAJj725mFvQsSBbQXdwmcyQVclUNOnQJYYtf_kVdXhObSDVWaU4Wd_lQ7A"
                            },
                            {
                               "node": {
@@ -181,7 +181,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHR3V-fNy1XXSOQe-NS3LyTVYVgxg1FcQOjqLw1otMR5FuIT3oPRdWB51dolvjuewpfzNGt6u-0IEg-baZ07IYPog"
+                              "cursor": "AQHR1xkrLGFpRQBrCF0fYFMLKsqkrohjiJnJCeRRt8nD_VFzG3tr39PkABpn8g70f0csmioP7woFghTHPs4Fzc65JA"
                            }
                         ],
                         "page_info": {
@@ -201,7 +201,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRee3aRFWYaW1h6V1Ob4cr_PHEv6SSpI4yHnI2jyKE7kClt-hsOgd9IJoDZrH_bcOf"
+                  "cursor": "AQHRX0IKdMPtnw8EMLtvgZHZ_kSXLenxd-Raw0QWKgWhSjpZuXK8YII_f7qgNY7WKmQM"
                },
                {
                   "node": {
@@ -223,7 +223,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRqJ3ZAb9f8jvirmwmGQmUgGPc8poHb6eajuDflhHI-tIKh_Q__fCowKtHka0Ed7onTKrVqtBAXj-TRebD7agi2w"
+                              "cursor": "AQHR1S0oOJQQ690r5H_QfbDACXBa-11N5DIr9HOrYJ7LOs0R_3-W6CoqfYYvgOmH-LqwSpywdEX2sSfj0_rmGmS8ZQ"
                            },
                            {
                               "node": {
@@ -235,7 +235,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRw4nwvjD14qgiVkHdWpWgG6x7cubwJZEwoqh3hDVDE63mKhJpkiSgEQPAm7zqL04Kel8keFjwDuAcx1O2ZBcwuw"
+                              "cursor": "AQHR8nmQGy8eaXc-zCaZx7Jf0NFA2Ge8v18NKhvuU6uDz3R_gN3ehWBjGKxEamlgnzgro0RdWzNbsWeb1H8xuU5Y4g"
                            }
                         ],
                         "page_info": {
@@ -255,7 +255,49 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRa4LrsfymHAmtMXDgH94HpHvQi1IRETXbumsULHfVbmFbHqdtc7ePNtOv9KpQ7vqf"
+                  "cursor": "AQHRqw6TQwZM6IupqDmcCVr5ZFvRgLRZ6z9O199nEhhA7HnnQDQmTqtH9f1fJO212_Nh"
+               },
+               {
+                  "node": {
+                     "id": "2481794495224210",
+                     "text_with_entities": {
+                        "text": "4.25 \u03c3\u03c4\u03b1 5] \u03a0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03cc!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 1,
+                        "edges": [
+                           {
+                              "node": {
+                                 "id": "1640423301",
+                                 "name": "Kritolaos Pachiadakis",
+                                 "url": "https://www.facebook.com/kritolaos.pachiadakis",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-1/c0.3.32.32a/p32x32/13043601_10208126422151881_8994290989567492732_n.jpg?_nc_cat=105&_nc_ht=scontent.fsof3-1.fna&oh=9fd89a671e0f8f2251bd23b6dc6afd13&oe=5CEE7A07"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRJZxH-6eKI81rNBpOucsB1XfR8JXna9beMC-fk-k9MQB0jV4kd4Z2krb4F9ISzPkHNuC6vrIqPppSECVXHIABTA"
+                           }
+                        ],
+                        "page_info": {
+                           "end_cursor": "AQHRSYknyVY_MesUNchosDj58LnVqUfZrDIeCLCWrci5kzEEd_XpDjKd3xg_ezCrNqh2S_GtWdh8CniaEke9AIQfgg",
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRm9iCuqfHSRi95Amd4QC6PQ2afSm4cf7H6DfZdcJXEzkM22oJqmQvmL4DZkcV-SOX"
                },
                {
                   "node": {
@@ -277,7 +319,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRHsHcRO6rvx0x4DByY1_Wdtk4x4kNzrxGNSYUtU_gJEo5um924uV7D0jeFVQrXCHouDHa-CHPO2_G0o7eCT0xnw"
+                              "cursor": "AQHR4U-6FgPIA5yFXnR2tzoj_lhnB2Pin5NbrXRElTMqfoxLZDM-lQV8bJBLwO11GGNi32v7VCrHBaTwqaUtsTQQYA"
                            }
                         ],
                         "page_info": {
@@ -297,38 +339,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRd0vi5R46yf_219vrh6nIxZVR0blAaUXkVcCRHd-j2GgMIKzJx5A3jxykLH7mAejY"
-               },
-               {
-                  "node": {
-                     "id": "2481794495224210",
-                     "text_with_entities": {
-                        "text": "4.25 \u03c3\u03c4\u03b1 5] \u03a0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03cc!"
-                     },
-                     "viewer_has_voted": false,
-                     "voters": {
-                        "count": 0,
-                        "edges": [
-                           
-                        ],
-                        "page_info": {
-                           "end_cursor": null,
-                           "has_next_page": false
-                        }
-                     },
-                     "associated_image": null,
-                     "can_viewer_delete_groups_poll_option": true,
-                     "groups_poll_option_author_description": {
-                        "text": "",
-                        "ranges": [
-                           
-                        ]
-                     },
-                     "can_viewer_report": false,
-                     "can_viewer_report_to_group_admin": false,
-                     "__typename": "QuestionOption"
-                  },
-                  "cursor": "AQHRoZ1MsSQn7vqz6xT5IEqKyXigNhewb_ivHYyJ34Nf9A8KYpAgO5jCzxonk6ETyRBB"
+                  "cursor": "AQHRSu0DpAvw71Pnu42CJF2X55WSd-kmn86I06UIY63w9N79dGcHF1FtH0ZtFSnsKq28"
                },
                {
                   "node": {
@@ -359,7 +370,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRsYrCcfuU9Ulk4bPN7BEPbaqEJAd4aXAgLbvZ61KpPpdojLj-qbIVPwYXAs8yQVYb"
+                  "cursor": "AQHRdeqTuPGGyZE-olR1T1Efk2DJ7H2f1cHCeoncekXaf0VYh_LgVVzlUBr5t0RBfZOV"
                },
                {
                   "node": {
@@ -390,7 +401,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHR4t1scWUUg8dwzgSmdStp-JO5a7Wi6ClDeH7lxdnCpLZxBYRX4uzHbtOrDI9tGCs6"
+                  "cursor": "AQHRPtssA3ZEYAP6LjXsv1dL8yWGBUjjsp9zwmo5u99zW6JnZ2gkYxqPkEEtbEXzJ9kh"
                },
                {
                   "node": {
@@ -421,7 +432,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHReDs4-DFTFrfmV_JRPuL0lIYz3dhaXfZ7MojL4FxfCBFsKY880VJNIyFiw3Abu8WF"
+                  "cursor": "AQHR6UXRsnj0bKMuyTeSgg2EWxtq1I3IYFRFZ6aDRfLT5kI4G7YuWaB25RMGprVjlPen"
                },
                {
                   "node": {
@@ -452,7 +463,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHR8zEKPqpxuOHooC0Tdv8XEbVMr9iDPL40ZamjnOfHhqUx7uh9dpXzC2yZL7LTtxoa"
+                  "cursor": "AQHR1MTuDOZ1B6yoYzRMg3CTCpZP-e-mxP0SBqJeY7qkQ8OUZ6rQ4c92GDHzAOSCI4Gd"
                },
                {
                   "node": {
@@ -483,7 +494,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRvb-tAW_lSJ4ItlFby-UQR6fE0Y39sG2TPLXBDTyJAkl_X4R3hVOnVqb5Kf0oHw8K"
+                  "cursor": "AQHRvmOpmGs5XaH4CUs1Uy1IogRXpviJ7iETjcEKIjax7MGG1MUIjV7I1yQ4dePTBtze"
                },
                {
                   "node": {
@@ -514,7 +525,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRhAcoHinHj6TqCkZCkPkggM5GK3txfVFfvAZr3VeDB6pKgWXcrHR5XO8JEWUH3TkL"
+                  "cursor": "AQHRz6Pm-PElrkqi23rA7Y4h1Z3kLbKkyHKRNZwfxAye5MQyK28oDogI1QrEn_f3UXPz"
                }
             ],
             "page_info": {

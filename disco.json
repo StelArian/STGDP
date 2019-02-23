@@ -2786,8 +2786,13 @@
 					]
 				},
 				"425": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						]
+					]
 				},
 				"450": {
 					"votes": 4,
@@ -2858,8 +2863,8 @@
 				}
 			},
 			"average": 0,
-			"count": 13,
-			"total": 61.5
+			"count": 14,
+			"total": 65.75
 		}
 	},
 	"fb2json_good": true
