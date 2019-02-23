@@ -2849,11 +2849,15 @@
 					]
 				},
 				"550": {
-					"votes": 1,
+					"votes": 2,
 					"voters": [
 						[
 							"722963498",
 							"George Rigas"
+						],
+						[
+							"1178847872",
+							"Konstantinos Boras"
 						]
 					]
 				},
@@ -2863,8 +2867,8 @@
 				}
 			},
 			"average": 0,
-			"count": 14,
-			"total": 65.75
+			"count": 15,
+			"total": 71.25
 		}
 	},
 	"fb2json_good": true
