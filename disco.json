@@ -2836,23 +2836,19 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 6,
+					"votes": 7,
 					"voters": [
 						[
 							"846969410",
 							"Ilias Sellountos"
 						],
 						[
+							"707887026",
+							"George Adamopoulos"
+						],
+						[
 							"1600495535",
 							"Evagelos Zafeiroulis"
-						],
-						[
-							"729180784",
-							"George J. Theophanous"
-						],
-						[
-							"666444151",
-							"John Dinopoulos"
 						],
 						[
 							"1810029258",
@@ -2861,6 +2857,14 @@
 						[
 							"1345826775",
 							"Charalampos Goutsos"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
 						]
 					]
 				},
@@ -2883,8 +2887,8 @@
 				}
 			},
 			"average": 0,
-			"count": 19,
-			"total": 88.75
+			"count": 20,
+			"total": 93.75
 		}
 	},
 	"fb2json_good": true
