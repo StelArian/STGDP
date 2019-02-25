@@ -2799,7 +2799,7 @@
 					]
 				},
 				"450": {
-					"votes": 7,
+					"votes": 8,
 					"voters": [
 						[
 							"100000257502267",
@@ -2808,6 +2808,10 @@
 						[
 							"830178259",
 							"Dimitrios Pikeas"
+						],
+						[
+							"1421395463",
+							"Christos Kyriacopoulos"
 						],
 						[
 							"749503693",
@@ -2887,8 +2891,8 @@
 				}
 			},
 			"average": 0,
-			"count": 20,
-			"total": 93.75
+			"count": 21,
+			"total": 98.25
 		}
 	},
 	"fb2json_good": true
