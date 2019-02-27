@@ -2776,12 +2776,12 @@
 					"votes": 3,
 					"voters": [
 						[
-							"1165159229",
-							"Alexis Zafiropoulos"
+							"1410104807",
+							"Constantine Stein Diamant"
 						],
 						[
-							"1184335175",
-							"Prodromos Makridis"
+							"1165159229",
+							"Alexis Zafiropoulos"
 						],
 						[
 							"1317643418",
@@ -2799,7 +2799,7 @@
 					]
 				},
 				"450": {
-					"votes": 8,
+					"votes": 9,
 					"voters": [
 						[
 							"100000257502267",
@@ -2822,6 +2822,10 @@
 							"Δημήτρης Μπιστιόλης"
 						],
 						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
 							"100013505295594",
 							"Irene Boni"
 						],
@@ -2840,7 +2844,7 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 7,
+					"votes": 8,
 					"voters": [
 						[
 							"846969410",
@@ -2855,6 +2859,14 @@
 							"Evagelos Zafeiroulis"
 						],
 						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
+						],
+						[
 							"1810029258",
 							"Stelios Arianoutsos"
 						],
@@ -2863,12 +2875,8 @@
 							"Charalampos Goutsos"
 						],
 						[
-							"729180784",
-							"George J. Theophanous"
-						],
-						[
-							"666444151",
-							"John Dinopoulos"
+							"1246612175",
+							"Leon Prlps"
 						]
 					]
 				},
@@ -2891,8 +2899,8 @@
 				}
 			},
 			"average": 0,
-			"count": 21,
-			"total": 98.25
+			"count": 23,
+			"total": 107.75
 		}
 	},
 	"fb2json_good": true
