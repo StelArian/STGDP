@@ -2799,7 +2799,7 @@
 					]
 				},
 				"450": {
-					"votes": 9,
+					"votes": 10,
 					"voters": [
 						[
 							"100000257502267",
@@ -2828,6 +2828,10 @@
 						[
 							"100013505295594",
 							"Irene Boni"
+						],
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
 						],
 						[
 							"1072800797",
@@ -2859,14 +2863,6 @@
 							"Evagelos Zafeiroulis"
 						],
 						[
-							"729180784",
-							"George J. Theophanous"
-						],
-						[
-							"666444151",
-							"John Dinopoulos"
-						],
-						[
 							"1810029258",
 							"Stelios Arianoutsos"
 						],
@@ -2877,6 +2873,14 @@
 						[
 							"1246612175",
 							"Leon Prlps"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
 						]
 					]
 				},
@@ -2899,8 +2903,87 @@
 				}
 			},
 			"average": 0,
-			"count": 23,
-			"total": 107.75
+			"count": 24,
+			"total": 112.25
+		},
+		"207": {
+			"title": "Light",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 3,
+					"voters": [
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						],
+						[
+							"1246612175",
+							"Leon Prlps"
+						]
+					]
+				},
+				"400": {
+					"votes": 2,
+					"voters": [
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						]
+					]
+				},
+				"425": {
+					"votes": 1,
+					"voters": [
+						[
+							"729180784",
+							"George J. Theophanous"
+						]
+					]
+				},
+				"450": {
+					"votes": 0,
+					"voters": []
+				},
+				"475": {
+					"votes": 0,
+					"voters": []
+				},
+				"500": {
+					"votes": 0,
+					"voters": []
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 6,
+			"total": 22.75
 		}
 	},
 	"fb2json_good": true
