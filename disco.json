@@ -2918,8 +2918,13 @@
 					"voters": []
 				},
 				"300": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"1178847872",
+							"Konstantinos Boras"
+						]
+					]
 				},
 				"350": {
 					"votes": 3,
@@ -2929,18 +2934,22 @@
 							"Ilias Sellountos"
 						],
 						[
-							"1810029258",
-							"Stelios Arianoutsos"
+							"722963498",
+							"George Rigas"
 						],
 						[
-							"1246612175",
-							"Leon Prlps"
+							"1810029258",
+							"Stelios Arianoutsos"
 						]
 					]
 				},
 				"400": {
-					"votes": 2,
+					"votes": 4,
 					"voters": [
+						[
+							"707887026",
+							"George Adamopoulos"
+						],
 						[
 							"1184335175",
 							"Prodromos Makridis"
@@ -2948,12 +2957,44 @@
 						[
 							"100013505295594",
 							"Irene Boni"
+						],
+						[
+							"579215703",
+							"Giorgos Blackman"
 						]
 					]
 				},
 				"425": {
-					"votes": 1,
+					"votes": 8,
 					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"100002823384616",
+							"Dimitris Koudoumnakis"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						],
+						[
+							"754911136",
+							"Vasilis Kou"
+						],
 						[
 							"729180784",
 							"George J. Theophanous"
@@ -2961,8 +3002,37 @@
 					]
 				},
 				"450": {
-					"votes": 0,
-					"voters": []
+					"votes": 7,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"100002414184742",
+							"Attila Menyhárt"
+						],
+						[
+							"100002922363884",
+							"Γιώργος Γαλανάκης"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"1246612175",
+							"Leon Prlps"
+						]
+					]
 				},
 				"475": {
 					"votes": 0,
@@ -2982,8 +3052,8 @@
 				}
 			},
 			"average": 0,
-			"count": 6,
-			"total": 22.75
+			"count": 23,
+			"total": 95
 		}
 	},
 	"fb2json_good": true
