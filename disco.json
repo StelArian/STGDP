@@ -3091,11 +3091,15 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 8,
+					"votes": 11,
 					"voters": [
 						[
 							"100000257502267",
 							"Michael Gerontakis"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
 						],
 						[
 							"749503693",
@@ -3106,8 +3110,16 @@
 							"Δημήτρης Μπιστιόλης"
 						],
 						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
 							"100013505295594",
 							"Irene Boni"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
 						],
 						[
 							"729180784",
@@ -3142,8 +3154,8 @@
 				}
 			},
 			"average": 0,
-			"count": 9,
-			"total": 45.5
+			"count": 12,
+			"total": 60.5
 		}
 	},
 	"fb2json_good": true
