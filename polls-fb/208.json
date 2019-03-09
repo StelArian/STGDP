@@ -31,7 +31,7 @@
                      },
                      "viewer_has_voted": true,
                      "voters": {
-                        "count": 11,
+                        "count": 12,
                         "edges": [
                            {
                               "node": {
@@ -43,7 +43,19 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRYZhU-ZXnUU1KRgc7ENmCtE6NPtqDTtUoAPnPStX2Y7cxXT50KlQg_MjbUGq6k0nWPv49NBR0W0pBw3tlE4MKrA"
+                              "cursor": "AQHRDwZT4uh-XKPf_T93Ba77rsFE4Pc5NZnQ9GAc-8jivs8ZkJqnuFYIhMXFmj3UBUdkg80HmjHSPZLVCOwX4sgT7Q"
+                           },
+                           {
+                              "node": {
+                                 "id": "722963498",
+                                 "name": "George Rigas",
+                                 "url": "https://www.facebook.com/GriGaS",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-1/p48x48/51457188_10158015998943499_1907782897599774720_n.jpg?_nc_cat=100&_nc_ht=scontent.fsof3-1.fna&oh=048781936f899a72f58e42cd195e04de&oe=5D22004B"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRteLbGRnKww-NrOQLtjEG-yEUgXB_MtNEv8xnyXaBE1Pekw3rly5fTsX4p8P1FyBh4wOa0lRBBCRgmimhvRoISA"
                            },
                            {
                               "node": {
@@ -55,7 +67,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRNETZG2Gv3lDUdJMREnaf1sf1-orYIxQalDWYO0scaSyQUcc4eeiH2J7YKl_JKV4TtIjFVd48PGpxxJVro_22rQ"
+                              "cursor": "AQHRVDhRUqHWb29ttSNcLIHItydLw8XualF5ls2C9rG8biTX-JdSOgVznXhsN5dadzX_vJ6XKChgxvOWBDgas-dxtg"
                            },
                            {
                               "node": {
@@ -67,7 +79,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRPmRzVHmPEAVNIjiQbB7ESOyolXzB5ZKDaXmQPF9zLVM2Rhv5alzCto07C5HL2dsL4BPAmJ6h5pDINTQ5O97x5g"
+                              "cursor": "AQHRBxBFARpEvo9jIkr63UkvT0mdHavUhqPXmJz0hX5GH7fX-lAmqVgW5QotactOStuVLK0sbxysSOTg8fhnGWEEAg"
                            },
                            {
                               "node": {
@@ -79,7 +91,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRLBR2xtVwhp6_5TMfMxZDhbhZZ0KQZZUvqrIeH2v-jVasAUrcPY-GoKKwRJhQ4KZ7g1jW53AN7TLBKLiElqDWFA"
+                              "cursor": "AQHR1TwdO3LEtAE-DSShYZuGyt0OvVDbxRUb8LC8V1UyvpeM9YYj5L0alt8_biaeHP_Hnkx8vhYbLKv-jJNUYXahMA"
                            },
                            {
                               "node": {
@@ -91,7 +103,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHR2f3GLRvzKWtXpjOs6nRvRhfSlBVfKnjQD3sbZY7rGbRJHtgXPmDNSHmE7jmwHg6gRpNtsEvha-LMPNWKAblA9A"
+                              "cursor": "AQHRejkp_Xg16kuFVDfD-ijAQanOoSogxIn2gTkz7ovjaZRIcnFsv277nYg843rlEj4jJtqznMOEqp2fcANxME5_9g"
                            },
                            {
                               "node": {
@@ -103,31 +115,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRUiMEXj5xnQduIpBYbkyjVP4xN0IqACF1vgXVVMJG2j3ypVR-2ZLfI7UUo8SE1ODNX6mPl7DPCfXUH9PGDKJMbw"
-                           },
-                           {
-                              "node": {
-                                 "id": "737540887",
-                                 "name": "Konstantinos Harkonnen",
-                                 "url": "https://www.facebook.com/Darth.Konstantinoz",
-                                 "profile_picture": {
-                                    "uri": "https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-1/p48x48/48375303_10156139103795888_2350988913700503552_n.jpg?_nc_cat=102&_nc_ht=scontent.fsof3-1.fna&oh=ed95c751ad68a95fdeebf89c611a8f51&oe=5D0C972C"
-                                 },
-                                 "__typename": "User"
-                              },
-                              "cursor": "AQHRQ2HzsWmIb0HsHHBGJUWlAKtpbIaNaQRS98VtAMrXvVrxBvExsWm1QBxoHTdapgK8qrNLRn9H0UmrqCnduDRKlw"
-                           },
-                           {
-                              "node": {
-                                 "id": "729180784",
-                                 "name": "George J. Theophanous",
-                                 "url": "https://www.facebook.com/george.theophanous",
-                                 "profile_picture": {
-                                    "uri": "https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-1/p48x48/50655428_10155890704400785_758037422524071936_n.jpg?_nc_cat=104&_nc_ht=scontent.fsof3-1.fna&oh=41c33c78a5c1f61bcadc9c4b7d14f6de&oe=5D1DC245"
-                                 },
-                                 "__typename": "User"
-                              },
-                              "cursor": "AQHREC_EKfI34sICH4DgA8ApJ-5z3kwA5xHHYteNeIdsxUjqsXcGz7rfiPoRXs9iUpOyOZqVQ6QFWVMpaO7TA42ndA"
+                              "cursor": "AQHRjOn1mj3XGD_n-_0Qcj7UaK3r-Ce0e1mcn_HdEl6tfU5t1_5zrPVHNFc5foj0trgUFy3Lb2mnQyFJvAaZjRxLHQ"
                            },
                            {
                               "node": {
@@ -139,7 +127,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRJdBLcZl8jWu9_ER7ALJXf0BbOlFRaaE9C5IsnVDraGhXduxxnzOk9CqgIDp9wrAeePy_yTepqmsKTCb7nU_nYw"
+                              "cursor": "AQHRSdyV6LOCI1I8upRFDU3ADvxW8pnkRSc4UNhEjJbjpDXN9XbwScm2Mm-1XOCHy3-OrGXx6EoHTsF7kUGhDRPbfA"
                            },
                            {
                               "node": {
@@ -151,11 +139,23 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRP3U-6EBOor5lqlsspMA12l7_1E3_tOA1z7Wg5UfeJ3pHjnbpK2jqEPWr7J6HDGU0CrKkAg_a9XGrmwca-SznYw"
+                              "cursor": "AQHR-appsXsjqNK7wbS9L7i7OT82Rj8CKIjcmQX-9inb6Ag75V4MJjIbs74x7UytiUw6nZALMEb32egwEG6DoOo8ng"
+                           },
+                           {
+                              "node": {
+                                 "id": "1246612175",
+                                 "name": "Leon Prlps",
+                                 "url": "https://www.facebook.com/leonidas.perlepes",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-1/p48x48/49793805_10218125122020002_5022500370434228224_n.jpg?_nc_cat=101&_nc_ht=scontent.fsof3-1.fna&oh=4a07d18ddf34829f1fc1c9ce5472ace3&oe=5D17A493"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRxigDPJuoEiVrzh7dZNyQKnRCVEdTPUGtgTd1W6SgOFszM-YdZxwU9ot3jEwD8mqsfHBblPlZSooUqGV9jjDJdw"
                            }
                         ],
                         "page_info": {
-                           "end_cursor": "AQHRixXc0D3X-vKWMOugSqEnSeja6wxLXpM6Z6ZKA6bJAs7Iybq-CQblYhNk2_ctF2kaJPLAugCd6aPkGl9lq6NIsQ",
+                           "end_cursor": "AQHR4AgbD5On9vVU-mOfGBk-O28iZCFOKWlW4d5mpuPb6TXU4c4fMzvvJ3NKlDOcV26x5g_9tViffSOvV1w_y-YZ8w",
                            "has_next_page": true
                         }
                      },
@@ -171,7 +171,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRkzVjAW13mRx3cQKFMwvCiTd73jSfKXIlNBFIKo_kvCi_AEYxo3606jpdL25e3eQ7"
+                  "cursor": "AQHR-LKHd7mClN-_fGQDkt0Jxhl11LsdXmjvessgwkb8CRTLguBz6c83MhqGI8kyBCVe"
                },
                {
                   "node": {
@@ -193,7 +193,7 @@
                                  },
                                  "__typename": "User"
                               },
-                              "cursor": "AQHRGR1f65m-bGyh6W622ZMXkUH-9Ko1a0rFDPrZROWeg3qj2vrlECgnzeFo_BdhwPmPQG6D05E5Z0zlVorJ_9FfQQ"
+                              "cursor": "AQHRkTl9ZYzRV8AY5QgCwclwi0H6Gg3Nrsv6GTN-1VYSii18kZjMQp6cm2Sw9QxUnBWNpkbrWZobSVEiTn7Iy9ekRQ"
                            }
                         ],
                         "page_info": {
@@ -213,7 +213,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRcfB8LhpGSKAbH73U1mWvF0MXCFAxMnv4ey9fVs5lC9dtjOBFWu1wj3xOLu0XxQuJ"
+                  "cursor": "AQHRG6Bq2uNlio2TEGNdgfAUy8mx4EobuhkBf3IFOs5JWkK6Ul5kXf5q48PGfD4T0s7X"
                },
                {
                   "node": {
@@ -244,7 +244,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRh4NqcU8qwqC8rejKCztfih5Vg9e0nkvgKDDXvk5oALAy8YueqbtAtLIT3hRxHA0_"
+                  "cursor": "AQHRjPWBN6j8BppFYIg-K1tdOkTfzUIwn3aKGb8esu9RcaT8WY-9HLIomdoc_vtX32AU"
                },
                {
                   "node": {
@@ -275,7 +275,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRaFFtwnCqM5Wob4I25IgtlGfXaWzG1EBbEG0pt2om-NPMwE2xMr4snKCRrRvLPfku"
+                  "cursor": "AQHRZdOvbhRU-HhnTvz6ty7RQ2gmGdgEuKdkv__b4wXYlxbeYsS9iV9_gXW-J18NgwvB"
                },
                {
                   "node": {
@@ -306,7 +306,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRJO3uZ5F0pxfJdjovNwHlKHj2b8QWxU9nFV74hednHNi_uq9mNHRFTMc-i70_lwom"
+                  "cursor": "AQHR1LHDhBzoJIjau_WuKgPSvBOYP6etEe9_oCmlfH5wHdpfDd-_vLC_46phjcPTqlWa"
                },
                {
                   "node": {
@@ -337,7 +337,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRIbCFyww1LR3vM9HGC6zSZBFOpqMeME9m8qKRSdtfQuL8pD_j82BcbQoQcbJjPARI"
+                  "cursor": "AQHRiYDu78kLR0ZWV_2sfEoj7blj8r8d5JRZNkidVeczUaDvUhcsI6b9oFMxVb1nK7JB"
                },
                {
                   "node": {
@@ -368,7 +368,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHR0TGewoh8oJVaWpM1KgqhmOW8cRypqps5esNefgf5NvPpsMZhc1eafQVvGX89e6U_"
+                  "cursor": "AQHRV0XyoMQtQTcYMbXMzA04Hsc8f4mZX3sjbnpFQ7QDH240pfxg9FjDP_VxEjBQVrBX"
                },
                {
                   "node": {
@@ -399,7 +399,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHR4SmlvDbV1rO5SvMsOzRq7owjfCwzYw5yCqaeui_yLcpSwuL5HWJuvYD3J5Xy6vbJ"
+                  "cursor": "AQHRrTKN4nA2aZExzVRlkVUadkCH5t-SJsoPne7tZ3vCRS7-Ahxg1g0QCuU8F6ohi4j_"
                },
                {
                   "node": {
@@ -430,7 +430,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHR15ZCywhwfPJHxJxMhQtBV-EpdRbu48EwztoResNwP3I1sn5VIjiGyj_spBsbeVQ3"
+                  "cursor": "AQHRZsths5yFY1l8pcKi5Ny_5FbynVlSP6B5ZrdyQymPiWjWMYHxeap09I8cNx831xRf"
                },
                {
                   "node": {
@@ -461,7 +461,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHR4Rea3m4a5PCKDh3U_jfIo5Pl5ZZH4Ac6R5LdROkTL30T1OutkU457KlMirjkrG4M"
+                  "cursor": "AQHRirwBNGiuC-KrjIy1RAP5iukhABZhK5yHRYGdZyS3mEA_0x-svcM6IMgxgc-eSR5E"
                },
                {
                   "node": {
@@ -492,7 +492,7 @@
                      "can_viewer_report_to_group_admin": false,
                      "__typename": "QuestionOption"
                   },
-                  "cursor": "AQHRUh2XPRfuOmg-j-NUwOZLamQP1rlo9FzALKvImPDO_i_C0_KlSS5-6UXY5LCBRQLr"
+                  "cursor": "AQHRM2l75X2jIp4h-HmjB-nb_TinVh_mHsxlfFvRp0H-4lkoi2zj7F23mYjJniN8RmWi"
                }
             ],
             "page_info": {

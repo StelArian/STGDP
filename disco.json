@@ -3091,11 +3091,15 @@
 					"voters": []
 				},
 				"500": {
-					"votes": 11,
+					"votes": 12,
 					"voters": [
 						[
 							"100000257502267",
 							"Michael Gerontakis"
+						],
+						[
+							"722963498",
+							"George Rigas"
 						],
 						[
 							"830178259",
@@ -3118,14 +3122,6 @@
 							"Irene Boni"
 						],
 						[
-							"737540887",
-							"Konstantinos Harkonnen"
-						],
-						[
-							"729180784",
-							"George J. Theophanous"
-						],
-						[
 							"1810029258",
 							"Stelios Arianoutsos"
 						],
@@ -3136,6 +3132,14 @@
 						[
 							"1246612175",
 							"Leon Prlps"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
 						]
 					]
 				},
@@ -3154,8 +3158,8 @@
 				}
 			},
 			"average": 0,
-			"count": 12,
-			"total": 60.5
+			"count": 13,
+			"total": 65.5
 		}
 	},
 	"fb2json_good": true
