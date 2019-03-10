@@ -3075,23 +3075,38 @@
 					"voters": []
 				},
 				"400": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"594343418",
+							"Dino Bados"
+						]
+					]
 				},
 				"425": {
 					"votes": 0,
 					"voters": []
 				},
 				"450": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						]
+					]
 				},
 				"475": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"100015491651114",
+							"Makis Dbs"
+						]
+					]
 				},
 				"500": {
-					"votes": 12,
+					"votes": 15,
 					"voters": [
 						[
 							"100000257502267",
@@ -3106,12 +3121,20 @@
 							"Dimitrios Pikeas"
 						],
 						[
-							"749503693",
-							"Alex Megremis"
+							"1640423301",
+							"Kritolaos Pachiadakis"
 						],
 						[
 							"100007950840403",
 							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"707887026",
+							"George Adamopoulos"
+						],
+						[
+							"1748997249",
+							"Frank Barker"
 						],
 						[
 							"1184335175",
@@ -3122,16 +3145,8 @@
 							"Irene Boni"
 						],
 						[
-							"1810029258",
-							"Stelios Arianoutsos"
-						],
-						[
-							"1345826775",
-							"Charalampos Goutsos"
-						],
-						[
-							"1246612175",
-							"Leon Prlps"
+							"100002093434385",
+							"Stathis Papastylianou"
 						],
 						[
 							"737540887",
@@ -3140,15 +3155,35 @@
 						[
 							"729180784",
 							"George J. Theophanous"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
 						]
 					]
 				},
 				"550": {
-					"votes": 1,
+					"votes": 3,
 					"voters": [
 						[
 							"695538115",
 							"Stelios Kraloglou"
+						],
+						[
+							"100002646309426",
+							"Elias Javalis"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
 						]
 					]
 				},
@@ -3158,8 +3193,8 @@
 				}
 			},
 			"average": 0,
-			"count": 13,
-			"total": 65.5
+			"count": 21,
+			"total": 104.75
 		}
 	},
 	"fb2json_good": true
