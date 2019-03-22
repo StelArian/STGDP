@@ -3199,6 +3199,250 @@
 			"average": 0,
 			"count": 22,
 			"total": 109.75
+		},
+		"209": {
+			"title": "Daedalus",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 0,
+					"voters": []
+				},
+				"400": {
+					"votes": 2,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						]
+					]
+				},
+				"425": {
+					"votes": 1,
+					"voters": [
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						]
+					]
+				},
+				"450": {
+					"votes": 13,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"1748997249",
+							"Frank Barker"
+						],
+						[
+							"100002823384616",
+							"Dimitris Koudoumnakis"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						]
+					]
+				},
+				"475": {
+					"votes": 6,
+					"voters": [
+						[
+							"707887026",
+							"George Adamopoulos"
+						],
+						[
+							"722963498",
+							"George Rigas"
+						],
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						]
+					]
+				},
+				"500": {
+					"votes": 0,
+					"voters": []
+				},
+				"550": {
+					"votes": 2,
+					"voters": [
+						[
+							"1178847872",
+							"Konstantinos Boras"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
+						]
+					]
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 24,
+			"total": 110.25
+		},
+		"210": {
+			"title": "Angel",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 0,
+					"voters": []
+				},
+				"400": {
+					"votes": 0,
+					"voters": []
+				},
+				"425": {
+					"votes": 1,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						]
+					]
+				},
+				"450": {
+					"votes": 0,
+					"voters": []
+				},
+				"475": {
+					"votes": 0,
+					"voters": []
+				},
+				"500": {
+					"votes": 6,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						]
+					]
+				},
+				"550": {
+					"votes": 2,
+					"voters": [
+						[
+							"722963498",
+							"George Rigas"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						]
+					]
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 9,
+			"total": 45.25
 		}
 	},
 	"fb2json_good": true
