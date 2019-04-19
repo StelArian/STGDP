@@ -3373,52 +3373,114 @@
 					"voters": []
 				},
 				"400": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"100015491651114",
+							"Makis Dbs"
+						]
+					]
 				},
 				"425": {
-					"votes": 1,
+					"votes": 7,
 					"voters": [
 						[
 							"100000257502267",
 							"Michael Gerontakis"
+						],
+						[
+							"707887026",
+							"George Adamopoulos"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"1421395463",
+							"Christos Kyriacopoulos"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"664126895",
+							"Despoina Markopoulou"
 						]
 					]
 				},
 				"450": {
-					"votes": 0,
-					"voters": []
+					"votes": 2,
+					"voters": [
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						]
+					]
 				},
 				"475": {
 					"votes": 0,
 					"voters": []
 				},
 				"500": {
-					"votes": 6,
+					"votes": 12,
 					"voters": [
 						[
 							"695538115",
 							"Stelios Kraloglou"
 						],
 						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
 							"100007950840403",
 							"Δημήτρης Μπιστιόλης"
 						],
 						[
-							"1640104975",
-							"Dion Tzavaras"
+							"1640423301",
+							"Kritolaos Pachiadakis"
 						],
 						[
 							"100013505295594",
 							"Irene Boni"
 						],
 						[
-							"1345826775",
-							"Charalampos Goutsos"
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
 						],
 						[
 							"729180784",
 							"George J. Theophanous"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"100001254418163",
+							"Triantafillia Iliopoulou"
+						],
+						[
+							"1547012798",
+							"Mike Mazarakis"
 						]
 					]
 				},
@@ -3441,8 +3503,555 @@
 				}
 			},
 			"average": 0,
-			"count": 9,
-			"total": 45.25
+			"count": 24,
+			"total": 113.75
+		},
+		"211": {
+			"title": "Infinity",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 1,
+					"voters": [
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						]
+					]
+				},
+				"400": {
+					"votes": 8,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"100005993432147",
+							"Amerikanos Scott Zeibekikos"
+						],
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"100014373937817",
+							"Νικόλαος Γκανταΐφης"
+						],
+						[
+							"100002093434385",
+							"Stathis Papastylianou"
+						]
+					]
+				},
+				"425": {
+					"votes": 0,
+					"voters": []
+				},
+				"450": {
+					"votes": 7,
+					"voters": [
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						]
+					]
+				},
+				"475": {
+					"votes": 1,
+					"voters": [
+						[
+							"722963498",
+							"George Rigas"
+						]
+					]
+				},
+				"500": {
+					"votes": 6,
+					"voters": [
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"1317643418",
+							"Theodore Tsiros"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						]
+					]
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 23,
+			"total": 101.75
+		},
+		"212": {
+			"title": "Valley",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 2,
+					"voters": [
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						]
+					]
+				},
+				"400": {
+					"votes": 6,
+					"voters": [
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"100002922363884",
+							"Γιώργος Γαλανάκης"
+						],
+						[
+							"1748997249",
+							"Frank Barker"
+						],
+						[
+							"100033424903779",
+							"Athanasios Pirtsios"
+						]
+					]
+				},
+				"425": {
+					"votes": 5,
+					"voters": [
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"100003243154379",
+							"Θεοδοσιος Νελιος"
+						],
+						[
+							"100002468916351",
+							"Nikolis Asimakis"
+						]
+					]
+				},
+				"450": {
+					"votes": 6,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						]
+					]
+				},
+				"475": {
+					"votes": 8,
+					"voters": [
+						[
+							"100002646309426",
+							"Elias Javalis"
+						],
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"722963498",
+							"George Rigas"
+						],
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"1246612175",
+							"Leon Prlps"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"664126895",
+							"Despoina Markopoulou"
+						]
+					]
+				},
+				"500": {
+					"votes": 1,
+					"voters": [
+						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
+						]
+					]
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 28,
+			"total": 122.25
+		},
+		"213": {
+			"title": "Sorrow 1",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 1,
+					"voters": [
+						[
+							"749503693",
+							"Alex Megremis"
+						]
+					]
+				},
+				"350": {
+					"votes": 0,
+					"voters": []
+				},
+				"400": {
+					"votes": 3,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						]
+					]
+				},
+				"425": {
+					"votes": 12,
+					"voters": [
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						],
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"579215703",
+							"Giorgos Blackman"
+						],
+						[
+							"1544497080",
+							"Asklipios Vassiliadis"
+						],
+						[
+							"100035504649537",
+							"Μηνάς Τσαμπάνης"
+						],
+						[
+							"100002922363884",
+							"Γιώργος Γαλανάκης"
+						]
+					]
+				},
+				"450": {
+					"votes": 4,
+					"voters": [
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						],
+						[
+							"100002468916351",
+							"Nikolis Asimakis"
+						]
+					]
+				},
+				"475": {
+					"votes": 1,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						]
+					]
+				},
+				"500": {
+					"votes": 1,
+					"voters": [
+						[
+							"100002646309426",
+							"Elias Javalis"
+						]
+					]
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 22,
+			"total": 93.75
+		},
+		"214": {
+			"title": "Sorrow 2",
+			"rates": {
+				"100": {
+					"votes": 0,
+					"voters": []
+				},
+				"200": {
+					"votes": 0,
+					"voters": []
+				},
+				"300": {
+					"votes": 0,
+					"voters": []
+				},
+				"350": {
+					"votes": 0,
+					"voters": []
+				},
+				"400": {
+					"votes": 0,
+					"voters": []
+				},
+				"425": {
+					"votes": 0,
+					"voters": []
+				},
+				"450": {
+					"votes": 0,
+					"voters": []
+				},
+				"475": {
+					"votes": 5,
+					"voters": [
+						[
+							"1421395463",
+							"Christos Kyriacopoulos"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"1317643418",
+							"Theodore Tsiros"
+						]
+					]
+				},
+				"500": {
+					"votes": 0,
+					"voters": []
+				},
+				"550": {
+					"votes": 2,
+					"voters": [
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						]
+					]
+				},
+				"050": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 7,
+			"total": 34.75
 		}
 	},
 	"fb2json_good": true

@@ -56,7 +56,10 @@ let load = {
 		208: 'Memory',
 		209: 'Daedalus',
 		210: 'Angel',
-		211: 'Infinity'
+		211: 'Infinity',
+		212: 'Valley',
+		213: 'Sorrow 1',
+		214: 'Sorrow 2'
 	},
 	dir_fb: './polls-fb/',
 	inject_file: './polls-inject.json',

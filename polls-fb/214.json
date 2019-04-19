@@ -1,0 +1,460 @@
+{
+   "data": {
+      "viewer": {
+         "actor": {
+            "__typename": "User",
+            "id": "1810029258",
+            "name": "Stelios Arianoutsos",
+            "url": "https://www.facebook.com/arianoutsos",
+            "profile_picture": {
+               "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/p32x32/10342441_10201125797866303_3041746515660723074_n.jpg?_nc_cat=102&_nc_ht=scontent.fsof5-1.fna&oh=a03b4ce6ffab143f93f5a49ab117484e&oe=5D435951"
+            }
+         }
+      },
+      "question": {
+         "id": "2512523662093270",
+         "response_method": "CHOOSE_ONE",
+         "can_viewer_post": true,
+         "can_viewer_add_poll_options": false,
+         "author": {
+            "__typename": "User",
+            "id": "1810029258"
+         },
+         "options": {
+            "count": 11,
+            "edges": [
+               {
+                  "node": {
+                     "id": "2321161784822594",
+                     "text_with_entities": {
+                        "text": "[4.75 \u03c3\u03c4\u03b1 5] \u03a3\u03c7\u03b5\u03b4\u03cc\u03bd \u03c4\u03ad\u03bb\u03b5\u03b9\u03bf!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 5,
+                        "edges": [
+                           {
+                              "node": {
+                                 "id": "1421395463",
+                                 "name": "Christos Kyriacopoulos",
+                                 "url": "https://www.facebook.com/christos.kyriacopoulos",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/c0.12.32.32a/p32x32/44065375_10217799409203211_8008608251635564544_n.jpg?_nc_cat=104&_nc_ht=scontent.fsof5-1.fna&oh=9306ffba9d3fe80f6660fde28ed5d14d&oe=5D3CF63B"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRYrR6HKiqCNCSC1V1Y-XotNsT6zHcDDxeizO32XQN_tb21-RNf7TPzFoLW3Zjj4tsAop5G_RICl7SOZpMQtEDzA"
+                           },
+                           {
+                              "node": {
+                                 "id": "100015491651114",
+                                 "name": "Makis Dbs",
+                                 "url": "https://www.facebook.com/profile.php?id=100015491651114",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/p32x32/42324541_429751870884531_1348435949293404160_n.jpg?_nc_cat=103&_nc_ht=scontent.fsof5-1.fna&oh=480742bf97b29ef27ec667c9420a2249&oe=5D2EAADD"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRALe6NcZrnlbzzHVen45U9HfKdKGg1a-FHpCc4rUSwhitVtqvNIMcb2aNWcvWH2xKoLsNoAO_ynw_1LuFyPd7mQ"
+                           },
+                           {
+                              "node": {
+                                 "id": "100014970228053",
+                                 "name": "Elizabeth Derm",
+                                 "url": "https://www.facebook.com/profile.php?id=100014970228053",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/p32x32/17553966_179430105899329_916579479189009918_n.jpg?_nc_cat=102&_nc_ht=scontent.fsof5-1.fna&oh=af8b88fac312e0789f79295bc7fe261d&oe=5D2E32E7"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRu1mN14ewHqE-xKEbeeQHssA-S_kgzj1sSxU_JZVDs4muXeD9TJr3nKOWqY9Dv4z0Rv-aTYBrld-nzecm9ZsZmQ"
+                           },
+                           {
+                              "node": {
+                                 "id": "100013505295594",
+                                 "name": "Irene Boni",
+                                 "url": "https://www.facebook.com/profile.php?id=100013505295594",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/p32x32/44737944_552698418523663_6829605334785458176_n.jpg?_nc_cat=105&_nc_ht=scontent.fsof5-1.fna&oh=1564813bac8ef4aab27d0fe00c065ae6&oe=5D3EB1E4"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRv9hdpts6QU0YuJk4MlNtFo22chHkKKxvbspcZeKkDVeeLYdVJuyTQuDaNbDlYMgeWIYZ-eoYRZUVoGxCSoNy9g"
+                           },
+                           {
+                              "node": {
+                                 "id": "1317643418",
+                                 "name": "Theodore Tsiros",
+                                 "url": "https://www.facebook.com/theodore.tsiros.1",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/c6.0.32.32a/p32x32/10710997_10204753147651368_3331159477686601071_n.jpg?_nc_cat=101&_nc_ht=scontent.fsof5-1.fna&oh=57a660d51222abb2b25b52c50c903828&oe=5D76C80B"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRcDBUiEuEH63XPXmCRxTlKa6Z3hiZh3Ix_-mAP7VPILNIvkW55y8UEBIn4kc9awvpo9oBTBlCPqkb9MqrA7QLdg"
+                           }
+                        ],
+                        "page_info": {
+                           "end_cursor": "AQHRtofbd8vav6JtSOL3p9G-eB1-hBeKu2eAeNkGwkUn9lO7u7Pco3Bu0S5IB6HJTe1BDFSF_Re-EQweN9oN2ycPWQ",
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRSw00xrKxGMXbdknCxGidCAovCsTpYyfYsuGvBF2YLWCQFNcgiBjmP-IVyoWrxw3R"
+               },
+               {
+                  "node": {
+                     "id": "2312100145516435",
+                     "text_with_entities": {
+                        "text": "[5+] \u03a5\u03c0\u03b5\u03c1\u03c4\u03ad\u03bb\u03b5\u03b9\u03bf!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 2,
+                        "edges": [
+                           {
+                              "node": {
+                                 "id": "846969410",
+                                 "name": "Ilias Sellountos",
+                                 "url": "https://www.facebook.com/Menthys",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/p32x32/55835438_10157665774974411_1968144986453049344_n.jpg?_nc_cat=104&_nc_ht=scontent.fsof5-1.fna&oh=71a505ffeeff99fdf56ede6cdac12c3b&oe=5D7341C6"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRwsamBrEwvI7XohzXq2rjc3WdC-L_JIIQGIrutYSSA_HPVxZTezXXNtL6fQYxT9Z4g8PNw_m4NQXGf6gEg5R3Tg"
+                           },
+                           {
+                              "node": {
+                                 "id": "100007950840403",
+                                 "name": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039c\u03c0\u03b9\u03c3\u03c4\u03b9\u03cc\u03bb\u03b7\u03c2",
+                                 "url": "https://www.facebook.com/profile.php?id=100007950840403",
+                                 "profile_picture": {
+                                    "uri": "https://scontent.fsof5-1.fna.fbcdn.net/v/t1.0-1/p32x32/48077914_2074097896198552_6623699324100411392_n.jpg?_nc_cat=108&_nc_ht=scontent.fsof5-1.fna&oh=4f2ef7887033056d384421a9ea969854&oe=5D36DCEE"
+                                 },
+                                 "__typename": "User"
+                              },
+                              "cursor": "AQHRC-6kkJke-O1x86iL-0Fn_v_fDbHtHXRYlbuSdtgeN6ysAmEUdJF2q5o2HRqb8Au-s-tJ6w-oielrepCKjI-Ltg"
+                           }
+                        ],
+                        "page_info": {
+                           "end_cursor": "AQHR7qFL1apH68V_AIk_43bYKNFv6S6E1IB731XoBBL6VWdlZ2ujwU-B5Bg5zHmJFRqgesrXQvT6YlewRvYuiyZN4A",
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHROf0B5ZBn1M4occ3jCdTT89K1LleRConjnSkbBILpp05Y8zvJSdpDYk3_xv5vO170"
+               },
+               {
+                  "node": {
+                     "id": "2351363661743463",
+                     "text_with_entities": {
+                        "text": "[2 \u03c3\u03c4\u03b1 5] \u03a7\u03bb\u03c9\u03bc\u03cc"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRMc2GQ3sHus7LTccwdP2sqaMamWaVc-nRvCpkKStYptY_88LDnsA_nk8CFNjF_AIf"
+               },
+               {
+                  "node": {
+                     "id": "881832918842880",
+                     "text_with_entities": {
+                        "text": "[4.5 \u03c3\u03c4\u03b1 5] \u03a0\u03ac\u03c1\u03b1 \u03c0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03cc!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRxjgGjJS58c7UFrHsYrMlzF3LXq_mMXPDu-wtUTfK1KirkDO4HPap3hxzCAAciY_o"
+               },
+               {
+                  "node": {
+                     "id": "853791934973056",
+                     "text_with_entities": {
+                        "text": "[4 \u03c3\u03c4\u03b1 5] \u039a\u03b1\u03bb\u03cc"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRWR-k2_e1qbFj3OGqeoHzK0wAQ59f5LS4Ya6_RxVJY0mJzb6Tsg5UnHGxsd5biXpo"
+               },
+               {
+                  "node": {
+                     "id": "411908792706409",
+                     "text_with_entities": {
+                        "text": "[1-] \u03a6\u03c1\u03af\u03ba\u03b1\u03c1\u03b1!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRrYLOBUQ7_rir1B7DGAkMWy-a8yPIiNUsRtb6lIJdT_hfVfKR1bwHS8WDjTz4bmhk"
+               },
+               {
+                  "node": {
+                     "id": "407287300069015",
+                     "text_with_entities": {
+                        "text": "[3 \u03c3\u03c4\u03b1 5] \u039c\u03ad\u03c4\u03c1\u03b9\u03bf"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHR2jnfleUVY8UqsogkpdyRE9xXY90r2kqF6f1Y-oPH1HIdoZJPh0QtrqA4cPsHqnEM"
+               },
+               {
+                  "node": {
+                     "id": "398048787714523",
+                     "text_with_entities": {
+                        "text": "[5 \u03c3\u03c4\u03b1 5] \u03a4\u03ad\u03bb\u03b5\u03b9\u03bf!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRgoGh7cnbLcPneppcMEc2nHwZzpXXoHLwfUmMj9b8m1U1CSXh2WNUvba-KxQXI0Ki"
+               },
+               {
+                  "node": {
+                     "id": "386305835289289",
+                     "text_with_entities": {
+                        "text": "[4.25 \u03c3\u03c4\u03b1 5] \u03a0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03cc!"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRkvXW68HDCbwBlxLJvESArWoMnqRGXmAsLLprmI748sCamyqEFqJJ2NJmDNvMIALq"
+               },
+               {
+                  "node": {
+                     "id": "382250739057550",
+                     "text_with_entities": {
+                        "text": "[3.5 \u03c3\u03c4\u03b1 5] \u039a\u03b1\u03bb\u03bf\u03cd\u03c4\u03c3\u03b9\u03ba\u03bf"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRwsCTc7lmYsM1-uKk1wBnjcdMp2OpFHcJ-osroGsh6WIc1n3szBW2lczCIaApZKDB"
+               },
+               {
+                  "node": {
+                     "id": "333133300727095",
+                     "text_with_entities": {
+                        "text": "[1 \u03c3\u03c4\u03b1 5] \u0394\u03b5\u03bd \u03bc\u03bf\u03c5 \u03ac\u03c1\u03b5\u03c3\u03b5"
+                     },
+                     "viewer_has_voted": false,
+                     "voters": {
+                        "count": 0,
+                        "edges": [
+                           
+                        ],
+                        "page_info": {
+                           "end_cursor": null,
+                           "has_next_page": false
+                        }
+                     },
+                     "associated_image": null,
+                     "can_viewer_delete_groups_poll_option": true,
+                     "groups_poll_option_author_description": {
+                        "text": "",
+                        "ranges": [
+                           
+                        ]
+                     },
+                     "can_viewer_report": false,
+                     "can_viewer_report_to_group_admin": false,
+                     "__typename": "QuestionOption"
+                  },
+                  "cursor": "AQHRksQVSKIfUM7icgXspGOKEmXeuzCIlV8mwJp51GkVWoEs8cFtniO6ABgt4kRKYYqQ"
+               }
+            ],
+            "page_info": {
+               "end_cursor": "AQHR8WjpMilFapl0DBv3fYJZ5LrWpZK9gDm5J699jkAQ6ZkocCMKalC47H1_mgMNoX8I",
+               "has_next_page": false
+            }
+         }
+      }
+   },
+   "extensions": {
+      "is_final": true
+   }
+}
