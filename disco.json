@@ -3983,16 +3983,38 @@
 					"voters": []
 				},
 				"300": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						]
+					]
 				},
 				"350": {
 					"votes": 0,
 					"voters": []
 				},
 				"400": {
-					"votes": 0,
-					"voters": []
+					"votes": 4,
+					"voters": [
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"1184335175",
+							"Prodromos Makridis"
+						],
+						[
+							"1410104807",
+							"Constantine Stein Diamant"
+						],
+						[
+							"100003200419519",
+							"Harry Masmanidis"
+						]
+					]
 				},
 				"425": {
 					"votes": 0,
@@ -4003,44 +4025,77 @@
 					"voters": []
 				},
 				"475": {
-					"votes": 5,
+					"votes": 9,
 					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
+						],
 						[
 							"1421395463",
 							"Christos Kyriacopoulos"
-						],
-						[
-							"100015491651114",
-							"Makis Dbs"
-						],
-						[
-							"100014970228053",
-							"Elizabeth Derm"
 						],
 						[
 							"100013505295594",
 							"Irene Boni"
 						],
 						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
 							"1317643418",
 							"Theodore Tsiros"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
 						]
 					]
 				},
 				"500": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						]
+					]
 				},
 				"550": {
-					"votes": 2,
+					"votes": 5,
 					"voters": [
 						[
 							"846969410",
 							"Ilias Sellountos"
 						],
 						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
 							"100007950840403",
 							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"100002468916351",
+							"Nikolis Asimakis"
 						]
 					]
 				},
@@ -4050,8 +4105,8 @@
 				}
 			},
 			"average": 0,
-			"count": 7,
-			"total": 34.75
+			"count": 20,
+			"total": 94.25
 		}
 	},
 	"fb2json_good": true
