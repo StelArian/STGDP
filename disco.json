@@ -3996,12 +3996,8 @@
 					"voters": []
 				},
 				"400": {
-					"votes": 4,
+					"votes": 5,
 					"voters": [
-						[
-							"100007888112543",
-							"Emmanuel Zachariadis"
-						],
 						[
 							"1184335175",
 							"Prodromos Makridis"
@@ -4011,8 +4007,16 @@
 							"Constantine Stein Diamant"
 						],
 						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
 							"100003200419519",
 							"Harry Masmanidis"
+						],
+						[
+							"664391512",
+							"Malk Giamalakis Nikos"
 						]
 					]
 				},
@@ -4025,7 +4029,7 @@
 					"voters": []
 				},
 				"475": {
-					"votes": 9,
+					"votes": 11,
 					"voters": [
 						[
 							"100000257502267",
@@ -4040,6 +4044,14 @@
 							"Christos Kyriacopoulos"
 						],
 						[
+							"100015491651114",
+							"Makis Dbs"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
 							"100013505295594",
 							"Irene Boni"
 						],
@@ -4048,20 +4060,20 @@
 							"Κωνσταντίνος Αθανασόπουλος"
 						],
 						[
-							"100014970228053",
-							"Elizabeth Derm"
-						],
-						[
-							"100015491651114",
-							"Makis Dbs"
+							"1345826775",
+							"Charalampos Goutsos"
 						],
 						[
 							"1317643418",
 							"Theodore Tsiros"
 						],
 						[
-							"1345826775",
-							"Charalampos Goutsos"
+							"1025960141",
+							"Dimitri Jimmy Nikolaou"
+						],
+						[
+							"664126895",
+							"Despoina Markopoulou"
 						]
 					]
 				},
@@ -4105,8 +4117,8 @@
 				}
 			},
 			"average": 0,
-			"count": 20,
-			"total": 94.25
+			"count": 23,
+			"total": 107.75
 		}
 	},
 	"fb2json_good": true
