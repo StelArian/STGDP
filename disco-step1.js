@@ -61,8 +61,8 @@ let load = {
 		213: 'Sorrow 1',
 		214: 'Sorrow 2'
 	},
-	dir_fb: './polls-fb/',
-	inject_file: './polls-inject.json',
+	dir_fb: './disco-polls-fb/',
+	inject_file: './disco-polls-inject.json',
 	episodes: {},
 	fb2json_good: true
 };
