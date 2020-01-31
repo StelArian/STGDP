@@ -1,0 +1,243 @@
+{
+	"episodes": {
+		"101": {
+			"title": "Remembrance",
+			"rates": {
+				"350": {
+					"votes": 1,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						]
+					]
+				},
+				"425": {
+					"votes": 4,
+					"voters": [
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"1165159229",
+							"Alexis Zafiropoulos"
+						],
+						[
+							"100000874616112",
+							"George I. Kokkinakis"
+						],
+						[
+							"1072800797",
+							"Dimitrios Chrysaides"
+						]
+					]
+				},
+				"450": {
+					"votes": 13,
+					"voters": [
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"1247667606",
+							"Alec Mally"
+						],
+						[
+							"722963498",
+							"George Rigas"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
+							"1748997249",
+							"Frank Barker"
+						],
+						[
+							"100014373937817",
+							"Νικόλαος Γκανταΐφης"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"1166117679",
+							"Grace Avrabou"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"577325026",
+							"Sokratis Sam Panagiotopoulos"
+						]
+					]
+				},
+				"500": {
+					"votes": 0,
+					"voters": []
+				},
+				"550": {
+					"votes": 19,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						],
+						[
+							"100015491651114",
+							"Makis Floratos"
+						],
+						[
+							"1184335175",
+							"Πρόδρομος Μάκης Μακρίδης"
+						],
+						[
+							"100002414184742",
+							"Attila Menyhárt"
+						],
+						[
+							"825834185",
+							"Paraskevi Oppio"
+						],
+						[
+							"100004785673635",
+							"Γιώρ Γος"
+						],
+						[
+							"100002093434385",
+							"Stathis Papastylianou"
+						],
+						[
+							"100000131068473",
+							"Dora P. Archer"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						],
+						[
+							"1246612175",
+							"Leon Prlps"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"1257083225",
+							"Panos Manikas"
+						],
+						[
+							"594203742",
+							"Maria Karavá"
+						],
+						[
+							"757872940",
+							"Vasileios Siaperas"
+						],
+						[
+							"742240429",
+							"Panagiotis Pantelis"
+						],
+						[
+							"839319290",
+							"Αριστείδης Γεώργιος Παρασχάκης"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
+						]
+					]
+				}
+			},
+			"average": 0,
+			"count": 37,
+			"total": 183.5
+		},
+		"102": {
+			"title": "MapsLegends",
+			"rates": {
+				"400": {
+					"votes": 3,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"100007950840403",
+							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						]
+					]
+				},
+				"425": {
+					"votes": 4,
+					"voters": [
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"100015491651114",
+							"Makis Floratos"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						],
+						[
+							"577325026",
+							"Sokratis Sam Panagiotopoulos"
+						]
+					]
+				},
+				"475": {
+					"votes": 0,
+					"voters": []
+				},
+				"500": {
+					"votes": 0,
+					"voters": []
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 7,
+			"total": 29
+		}
+	},
+	"fb2json_good": true
+}
