@@ -184,7 +184,7 @@
 			"title": "MapsLegends",
 			"rates": {
 				"400": {
-					"votes": 3,
+					"votes": 4,
 					"voters": [
 						[
 							"100000257502267",
@@ -197,6 +197,10 @@
 						[
 							"737540887",
 							"Konstantinos Harkonnen"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
 						]
 					]
 				},
@@ -222,8 +226,13 @@
 					]
 				},
 				"475": {
-					"votes": 0,
-					"voters": []
+					"votes": 1,
+					"voters": [
+						[
+							"1640104975",
+							"Dion Tzavaras"
+						]
+					]
 				},
 				"500": {
 					"votes": 0,
@@ -235,8 +244,8 @@
 				}
 			},
 			"average": 0,
-			"count": 7,
-			"total": 29
+			"count": 9,
+			"total": 37.75
 		}
 	},
 	"fb2json_good": true
