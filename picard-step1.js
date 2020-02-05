@@ -31,9 +31,9 @@ function eval_rate(question) {
 let load = {
 	titles: {
 		101: 'Remembrance',
-		102: 'MapsLegends',
-		103: 'EndBeginning',
-		104: 'AbsoluteCandor',
+		102: 'Maps',
+		103: 'End',
+		104: 'eCandor',
 		105: 'StardustCity',
 		106: 's1:e6',
 		107: 's1:e7',

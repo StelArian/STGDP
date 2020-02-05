@@ -13,7 +13,7 @@
 					]
 				},
 				"425": {
-					"votes": 4,
+					"votes": 5,
 					"voters": [
 						[
 							"1640423301",
@@ -22,6 +22,10 @@
 						[
 							"1165159229",
 							"Alexis Zafiropoulos"
+						],
+						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
 						],
 						[
 							"100000874616112",
@@ -177,22 +181,39 @@
 				}
 			},
 			"average": 0,
-			"count": 37,
-			"total": 183.5
+			"count": 38,
+			"total": 187.75
 		},
 		"102": {
-			"title": "MapsLegends",
+			"title": "Maps",
 			"rates": {
+				"350": {
+					"votes": 1,
+					"voters": [
+						[
+							"722963498",
+							"George Rigas"
+						]
+					]
+				},
 				"400": {
-					"votes": 4,
+					"votes": 6,
 					"voters": [
 						[
 							"100000257502267",
 							"Michael Gerontakis"
 						],
 						[
+							"1166117679",
+							"Grace Avrabou"
+						],
+						[
 							"100007950840403",
 							"Δημήτρης Μπιστιόλης"
+						],
+						[
+							"1410104807",
+							"Constantine Stein Diamant"
 						],
 						[
 							"737540887",
@@ -205,47 +226,84 @@
 					]
 				},
 				"425": {
-					"votes": 4,
+					"votes": 10,
 					"voters": [
 						[
 							"749503693",
 							"Alex Megremis"
 						],
 						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"1421395463",
+							"Christos Kyriacopoulos"
+						],
+						[
 							"100015491651114",
 							"Makis Floratos"
 						],
 						[
-							"1810029258",
-							"Stelios Arianoutsos"
+							"1184335175",
+							"Πρόδρομος Μάκης Μακρίδης"
 						],
 						[
 							"577325026",
 							"Sokratis Sam Panagiotopoulos"
+						],
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
+						],
+						[
+							"825834185",
+							"Paraskevi Oppio"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
 						]
 					]
 				},
 				"475": {
-					"votes": 1,
+					"votes": 3,
 					"voters": [
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
 						[
 							"1640104975",
 							"Dion Tzavaras"
+						],
+						[
+							"1345826775",
+							"Charalampos Goutsos"
 						]
 					]
 				},
 				"500": {
-					"votes": 0,
-					"voters": []
-				},
-				"550": {
-					"votes": 0,
-					"voters": []
+					"votes": 2,
+					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
+						[
+							"100004785673635",
+							"Γιώρ Γος"
+						]
+					]
 				}
 			},
 			"average": 0,
-			"count": 9,
-			"total": 37.75
+			"count": 22,
+			"total": 94.25
 		}
 	},
 	"fb2json_good": true

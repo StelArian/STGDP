@@ -71,7 +71,7 @@ async.waterfall([
 		});
 		let memebrs_rates_average = memebrs_rates_sum / members.length;
 		memebrs_rates_average = Math.round(memebrs_rates_average * 100) / 100
-		load.cvs_mem_eps += '\tΜ.Ο. (' + memebrs_rates_average + '/' + members.length + ')';
+		load.cvs_mem_eps += '\tΜ.Ο. (' + memebrs_rates_average + ' από ' + members.length + ' μέλη)';
 		load.cvs_mem_eps += members_row;
 
 		let episodes = Object.keys(load.episodes);
