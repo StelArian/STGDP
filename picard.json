@@ -309,7 +309,7 @@
 			"title": "End",
 			"rates": {
 				"400": {
-					"votes": 10,
+					"votes": 13,
 					"voters": [
 						[
 							"100000257502267",
@@ -332,6 +332,10 @@
 							"Πρόδρομος Μάκης Μακρίδης"
 						],
 						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
 							"577325026",
 							"Sokratis Sam Panagiotopoulos"
 						],
@@ -340,22 +344,34 @@
 							"Alexis Zafiropoulos"
 						],
 						[
+							"100008546925757",
+							"Κωνσταντίνος Αθανασόπουλος"
+						],
+						[
 							"100002414184742",
 							"Attila Menyhárt"
 						],
 						[
-							"666444151",
-							"John Dinopoulos"
+							"1166117679",
+							"Grace Avrabou"
 						],
 						[
-							"1810029258",
-							"Stelios Arianoutsos"
+							"577325026",
+							"Sokratis Sam Panagiotopoulos"
+						],
+						[
+							"666444151",
+							"John Dinopoulos"
 						]
 					]
 				},
 				"425": {
-					"votes": 4,
+					"votes": 11,
 					"voters": [
+						[
+							"695538115",
+							"Stelios Kraloglou"
+						],
 						[
 							"749503693",
 							"Alex Megremis"
@@ -365,12 +381,36 @@
 							"Kritolaos Pachiadakis"
 						],
 						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
 							"737540887",
 							"Konstantinos Harkonnen"
 						],
 						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
 							"100004604347232",
 							"Pante-Lykos Stavropoulos"
+						],
+						[
+							"100002093434385",
+							"Stathis Papastylianou"
+						],
+						[
+							"671356584",
+							"Vera Mavrona"
 						]
 					]
 				},
@@ -390,8 +430,8 @@
 							"Leon Prlps"
 						],
 						[
-							"729180784",
-							"George J. Theophanous"
+							"100004785673635",
+							"Γιώρ Γος"
 						],
 						[
 							"1345826775",
@@ -405,8 +445,128 @@
 				}
 			},
 			"average": 0,
-			"count": 18,
-			"total": 77
+			"count": 28,
+			"total": 118.75
+		},
+		"104": {
+			"title": "eCandor",
+			"rates": {
+				"300": {
+					"votes": 2,
+					"voters": [
+						[
+							"100007888112543",
+							"Emmanuel Zachariadis"
+						],
+						[
+							"1089895830",
+							"Kostas Kyriazidis"
+						]
+					]
+				},
+				"400": {
+					"votes": 9,
+					"voters": [
+						[
+							"100000257502267",
+							"Michael Gerontakis"
+						],
+						[
+							"722963498",
+							"George Rigas"
+						],
+						[
+							"830178259",
+							"Dimitrios Pikeas"
+						],
+						[
+							"100015491651114",
+							"Makis Floratos"
+						],
+						[
+							"1184335175",
+							"Πρόδρομος Μάκης Μακρίδης"
+						],
+						[
+							"100013505295594",
+							"Irene Boni"
+						],
+						[
+							"100014970228053",
+							"Elizabeth Derm"
+						],
+						[
+							"729180784",
+							"George J. Theophanous"
+						],
+						[
+							"1748997249",
+							"Frank Barker"
+						]
+					]
+				},
+				"425": {
+					"votes": 10,
+					"voters": [
+						[
+							"846969410",
+							"Ilias Sellountos"
+						],
+						[
+							"749503693",
+							"Alex Megremis"
+						],
+						[
+							"1640423301",
+							"Kritolaos Pachiadakis"
+						],
+						[
+							"1166117679",
+							"Grace Avrabou"
+						],
+						[
+							"1600495535",
+							"Evagelos Zafeiroulis"
+						],
+						[
+							"737540887",
+							"Konstantinos Harkonnen"
+						],
+						[
+							"1165159229",
+							"Alexis Zafiropoulos"
+						],
+						[
+							"100002414184742",
+							"Attila Menyhárt"
+						],
+						[
+							"1810029258",
+							"Stelios Arianoutsos"
+						],
+						[
+							"671356584",
+							"Vera Mavrona"
+						]
+					]
+				},
+				"500": {
+					"votes": 1,
+					"voters": [
+						[
+							"702764252",
+							"Paraskevakis Spyros"
+						]
+					]
+				},
+				"550": {
+					"votes": 0,
+					"voters": []
+				}
+			},
+			"average": 0,
+			"count": 22,
+			"total": 89.5
 		}
 	},
 	"fb2json_good": true
